@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": "25a3",
+      "username": "Pinku",
+      "useremail": "pinku@gmail.com",
+      "userpassword": "123",
+      "userPhoneNo": "9988776655"
+    },
+    {
+      "id": "bd09",
+      "username": "tate",
+      "useremail": "tata@gmail.com",
+      "userpassword": "11111",
+      "userPhoneNo": "1111111111"
+    },
+    {
+      "id": "e6a3",
+      "username": "Aniket",
+      "useremail": "sinhaaniket81@gmail.com",
+      "userpassword": "1234",
+      "userPhoneNo": "9876543215"
+    },
+    {
+      "id": "052f",
+      "username": "admin",
+      "useremail": "admin@gmail.com",
+      "userpassword": "admin123",
+      "userPhoneNo": "8877655444"
+    },
+    {
+      "id": "341e",
+      "username": "admin",
+      "useremail": "admin@gmail.com",
+      "userpassword": "1223",
+      "userPhoneNo": "1234567890"
+    }
+  ]
+}
